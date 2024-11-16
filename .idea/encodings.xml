@@ -25,6 +25,8 @@
     <file url="file://$PROJECT_DIR$/structural/bridge/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/structural/composite/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/structural/composite/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/structural/decorator/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/structural/decorator/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/structural/filter/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/structural/filter/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/structural/src/main/java" charset="UTF-8" />

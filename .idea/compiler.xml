@@ -9,6 +9,7 @@
         <module name="singleton" />
         <module name="filter" />
         <module name="factory" />
+        <module name="decorator" />
         <module name="abstractfactory" />
         <module name="adapter" />
         <module name="common" />
