@@ -10,11 +10,31 @@
     </parent>
 
     <artifactId>behavioral</artifactId>
+    <packaging>pom</packaging>
+
+    <modules>
+        <module>chain</module>
+        <module>command</module>
+        <module>interpreter</module>
+        <module>iterator</module>
+        <module>mediator</module>
+        <module>memento</module>
+        <module>observer</module>
+        <module>state</module>
+    </modules>
 
     <properties>
         <maven.compiler.source>8</maven.compiler.source>
         <maven.compiler.target>8</maven.compiler.target>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
+
+    <dependencies>
+        <dependency>
+            <groupId>com.future.rocket.gof23</groupId>
+            <artifactId>common</artifactId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency>
+    </dependencies>
 
 </project>
