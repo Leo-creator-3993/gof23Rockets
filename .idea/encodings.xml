@@ -21,6 +21,8 @@
     <file url="file://$PROJECT_DIR$/behavioral/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/behavioral/state/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/behavioral/state/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/behavioral/strategy/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/behavioral/strategy/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/common/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/common/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/creational/abstractfactory/src/main/java" charset="UTF-8" />
