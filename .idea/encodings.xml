@@ -7,6 +7,8 @@
     <file url="file://$PROJECT_DIR$/behavioral/chain/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/behavioral/command/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/behavioral/command/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/behavioral/compositeEntity/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/behavioral/compositeEntity/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/behavioral/interpreter/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/behavioral/interpreter/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/behavioral/iterator/src/main/java" charset="UTF-8" />

@@ -5,30 +5,11 @@
     <modelVersion>4.0.0</modelVersion>
     <parent>
         <groupId>com.future.rocket.gof23</groupId>
-        <artifactId>gof23</artifactId>
+        <artifactId>behavioral</artifactId>
         <version>1.0-SNAPSHOT</version>
     </parent>
 
-    <artifactId>behavioral</artifactId>
-    <packaging>pom</packaging>
-
-    <modules>
-        <module>chain</module>
-        <module>command</module>
-        <module>interpreter</module>
-        <module>iterator</module>
-        <module>mediator</module>
-        <module>memento</module>
-        <module>observer</module>
-        <module>state</module>
-        <module>nullobject</module>
-        <module>strategy</module>
-        <module>template</module>
-        <module>visitor</module>
-        <module>mvc</module>
-        <module>businessDelegate</module>
-        <module>compositeEntity</module>
-    </modules>
+    <artifactId>compositeEntity</artifactId>
 
     <properties>
         <maven.compiler.source>8</maven.compiler.source>

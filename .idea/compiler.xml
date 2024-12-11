@@ -24,6 +24,7 @@
         <module name="adapter" />
         <module name="memento" />
         <module name="interpreter" />
+        <module name="compositeEntity" />
         <module name="prototype" />
         <module name="command" />
         <module name="filter" />
