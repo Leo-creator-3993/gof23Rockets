@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="template" />
         <module name="decorator" />
+        <module name="daoPattern" />
         <module name="flyweight" />
         <module name="observer" />
         <module name="iterator" />
