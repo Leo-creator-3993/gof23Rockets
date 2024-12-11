@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/behavioral/businessDelegate/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/behavioral/businessDelegate/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/behavioral/chain/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/behavioral/chain/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/behavioral/command/src/main/java" charset="UTF-8" />
@@ -13,6 +15,8 @@
     <file url="file://$PROJECT_DIR$/behavioral/mediator/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/behavioral/memento/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/behavioral/memento/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/behavioral/mvc/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/behavioral/mvc/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/behavioral/nullobject/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/behavioral/nullobject/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/behavioral/observer/src/main/java" charset="UTF-8" />
@@ -23,6 +27,10 @@
     <file url="file://$PROJECT_DIR$/behavioral/state/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/behavioral/strategy/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/behavioral/strategy/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/behavioral/template/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/behavioral/template/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/behavioral/visitor/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/behavioral/visitor/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/common/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/common/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/creational/abstractfactory/src/main/java" charset="UTF-8" />
