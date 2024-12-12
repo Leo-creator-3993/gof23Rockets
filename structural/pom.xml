@@ -20,6 +20,7 @@
         <module>flyweight</module>
         <module>proxy</module>
         <module>daoPattern</module>
+        <module>frontController</module>
     </modules>
 
     <properties>
