@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="template" />
+        <module name="interceptingFilter" />
         <module name="decorator" />
         <module name="daoPattern" />
         <module name="flyweight" />

@@ -28,6 +28,7 @@
         <module>mvc</module>
         <module>businessDelegate</module>
         <module>compositeEntity</module>
+        <module>interceptingFilter</module>
     </modules>
 
     <properties>
