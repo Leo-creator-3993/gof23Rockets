@@ -21,6 +21,7 @@
         <module>proxy</module>
         <module>daoPattern</module>
         <module>frontController</module>
+        <module>serviceLocator</module>
     </modules>
 
     <properties>
