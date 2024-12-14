@@ -1,4 +1,4 @@
-## 代理(proxy)模式
+## serviceLocator模式
 
 ### 模式简介
 ```

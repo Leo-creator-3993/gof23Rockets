@@ -22,6 +22,7 @@
         <module>daoPattern</module>
         <module>frontController</module>
         <module>serviceLocator</module>
+        <module>transferObject</module>
     </modules>
 
     <properties>
